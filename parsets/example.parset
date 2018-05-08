@@ -1,5 +1,5 @@
 # Example parset
-# to use with: ./losoto.py -v examples/example.h5 test.parset
+# to use with: ./losoto.py -V examples/example.h5 test.parset
 
 LoSoTo.Steps = [example]
 LoSoTo.Solset = [sol000]
